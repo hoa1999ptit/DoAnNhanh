@@ -32,7 +32,7 @@ namespace DAN.Areas.System.Controllers
                     try
                     {
                         FormsAuthentication.SetAuthCookie(model.Uname, false);
-                        var authTicket = new FormsAuthenticationTicket(1, admin.Uname, DateTime.Now, DateTime.Now.AddDays(1), false, admin.Uname);
+                        var authTicket = new FormsAuthenticationTicket(1, admin.Uname, DateTime.Now, DateTime.Now.AddDays(1), false, admin.Roles);
                         string encryptedTicket = FormsAuthentication.Encrypt(authTicket);
                         var authCookie = new HttpCookie(FormsAuthentication.FormsCookieName, encryptedTicket);
                         HttpContext.Response.Cookies.Add(authCookie);
