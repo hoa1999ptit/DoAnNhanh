@@ -33,7 +33,7 @@ namespace DAN.Areas.System.Models
         [Required(ErrorMessage = "Vui lòng nhập trường này")]
         [Display(Name = "Tên sản phẩm:")]
         public string Pname { get; set; }
-        [Display(Name = "Mô tả, giới thiệu sản phẩm:")]
+        [Display(Name = "Mô tả, giới thiệu sản phẩm (có thể dùng HTML):")]
         public string Pdesc { get; set; }
         [Required(ErrorMessage = "Vui lòng nhập trường này")]
         [Display(Name = "Giá:")]
