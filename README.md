@@ -14,18 +14,22 @@ __Admin Cpanel__
 - Quản lý đơn đặt hàng
 - Quản lý tin tức khuyến mãi
 - Quản lý góp ý khác hàng
+
 __Giỏ hàng__
 - Thêm sản phẩm
 - Xóa sản phẩm
 - Thanh toán
+
 __Đặt hàng__
 - Nhập thông tin đặt hàng
 - Lựa chọn phương thức thanh toán
 - Xác nhận thông tin
 - Tìm kiếm đơn hàng
 - Xem chi tiết đơn hàng đã đặt
+
 __Liên hệ__
 - Form góp ý, liên hệ
+
 __Tin khuyến mãi__
 __Chi tiết sản phẩm__
 __Chính sách vận chuyển__
