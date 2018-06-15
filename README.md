@@ -31,7 +31,11 @@ __Liên hệ__
 - Form góp ý, liên hệ
 
 __Tin khuyến mãi__
+
 __Chi tiết sản phẩm__
+
 __Chính sách vận chuyển__
+
 __Sản phẩm cùng loại__
+
 __Chuyên mục sản phẩm__
